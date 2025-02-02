@@ -4,7 +4,7 @@
 
 Welcome to the **AI Search Algorithms Workshop**! This session covers fundamental search techniques used in Artificial Intelligence, including uninformed and informed and adversarial search strategies.  
 
-<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Poster.jpg" alt="Header Image" width="400">
 
 ---
 
@@ -46,6 +46,6 @@ git clone https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop.git
 ```
 
 ---
-<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Image-2.JPG" alt="Header Image" height="326">
 
-<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Image-1.JPG" alt="Header Image" height="350">
