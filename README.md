@@ -4,6 +4,8 @@
 
 Welcome to the **AI Search Algorithms Workshop**! This session covers fundamental search techniques used in Artificial Intelligence, including uninformed and informed and adversarial search strategies.  
 
+<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
+
 ---
 
 ## 📌 Topics Covered  
@@ -41,3 +43,9 @@ Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_
 🔹 Clone this repository:  
 ```sh
 git clone https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop.git
+```
+
+---
+<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
+
+<img src="https://your-image-url.com/header.png" alt="Header Image" width="400" height="400">
