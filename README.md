@@ -14,7 +14,7 @@ Welcome to the **AI Search Algorithms Workshop**! This session covers fundamenta
 
 ### 🔹 Informed Search Algorithms  
 - **Greedy Best-First Search** – Uses a heuristic to prioritize the most promising paths.  
-- **A* Algorithm** – Combines path cost and heuristics for optimal searching.  
+- **A-Star Algorithm** – Combines path cost and heuristics for optimal searching.  
 
 ### 🔹 Adversarial Search Algorithms  
 - **Minimax Algorithm** – Decision-making in adversarial games.  
