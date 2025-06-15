@@ -4,6 +4,13 @@
 
 Welcome to the **AI Search Algorithms Workshop**! This session covers fundamental search techniques used in Artificial Intelligence, including uninformed and informed and adversarial search strategies.  
 
+### 📂 Resources  
+Workshop Slides (PDF): [Download Here](https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/AiWorkshop.pdf)  
+Lecture Recording: [Watch Here](https://fb.watch/xuVqcuRSp8/)  
+Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_icodeguru-scholarshipsuccess-stanforddream-activity-7291087930301771776-o2U3?utm_source=share&utm_medium=member_desktop)
+
+---
+
 <img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Poster.jpg" alt="Header Image" width="400">
 
 ---
@@ -21,13 +28,6 @@ Welcome to the **AI Search Algorithms Workshop**! This session covers fundamenta
 ### 🔹 Adversarial Search Algorithms  
 - **Minimax Algorithm** – Decision-making in adversarial games.  
 - **Alpha-Beta Pruning** – Optimization for Minimax to eliminate unnecessary calculations.  
-
----
-
-### 📂 Resources  
-Workshop Slides (PDF): [Download Here](https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/AiWorkshop.pdf)  
-Lecture Recording: [Watch Here](https://fb.watch/xuVqcuRSp8/)  
-Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_icodeguru-scholarshipsuccess-stanforddream-activity-7291087930301771776-o2U3?utm_source=share&utm_medium=member_desktop)
 
 ---
 
